@@ -5,7 +5,7 @@
 - ☁️ Senior Azure DevOps Engineer with hands-on experience in Microsoft Azure Cloud.
 - 🏗️ Designing and implementing Enterprise Azure Landing Zones.
 - ☸️ Building, managing, and securing Production-grade AKS & Kubernetes clusters.
-- 🌍 Automating cloud infrastructure using Terraform & Bicep (Infrastructure as Code).
+- 🌍 Automating cloud infrastructure using Terraform (Infrastructure as Code).
 - ⚙️ Developing scalable CI/CD pipelines using GitHub Actions & Azure DevOps.
 - 🚀 Implementing GitOps workflows with Argo CD & Helm.
 - 🌐 Designing secure Hub & Spoke network architectures with Private Endpoints.
