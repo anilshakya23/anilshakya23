@@ -10,4 +10,4 @@
 
 ⚙️ GitHub Actions | 🔷 Azure DevOps | 🚀 Argo CD
 
-🔄 CI/CD | GitOps | Infrastructure as Code 
+🔄 CI/CD | GitOps | Infrastructure as Code
