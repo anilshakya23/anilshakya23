@@ -1,8 +1,4 @@
-┌──────────────────────────────────────────────┐
-│ Azure | AKS | Kubernetes | Terraform | CI/CD │
-│             👨‍💻 Anil Shakya                  │
-│     Senior Azure DevOps Engineer             │
-└──────────────────────────────────────────────┘
+# Hi 👋 I'm Anil Shakya
 
 ## 👨‍💻 About Me
 
