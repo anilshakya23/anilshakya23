@@ -15,7 +15,6 @@
 - 🌱 Currently expanding expertise in Python, Google Cloud Platform (GCP), MLOps, and AI for DevOps.
 
 ## 💻 Tech Stack
-
 ### ☁️ Cloud
 - ☁️ Microsoft Azure
 
